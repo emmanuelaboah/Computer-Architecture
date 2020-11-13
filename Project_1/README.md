@@ -1,1 +1,1 @@
-## This project is still in progress in will be committed soon :)
+## This project is still in progress and I will be committing soon :)
