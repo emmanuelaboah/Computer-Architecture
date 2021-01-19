@@ -1,1 +1,1 @@
-# Deep-Learning-on-Hardware
+# Microcontroller Design and Programming
