@@ -4,8 +4,8 @@ A scenario for the description of the project was such that, the two LEDs namely
 
 There are two major approaches to the solution of the problem elaborated above, which are as follows;
 ```
-1.	The use of Polled I/O instructions for switching within a while (1) loop with two states for each press and release action.
-2.	The use of Periodic Interrupt and change notification interrupt for sampling the switch input (SW1).
+1. The use of Polled I/O instructions for switching within a while (1) loop with two states for each press and release action.
+2. The use of Periodic Interrupt and change notification interrupt for sampling the switch input (SW1).
 
 ```
 
