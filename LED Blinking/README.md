@@ -15,5 +15,7 @@ conserve power by avoiding the polling of I/Os.
 
 The hardware components connection to the PIC24 uC is depicted in the figure below:
 
-https://github.com/emmanuelaboah/Computer_Architecture/tree/master/LED%20Blinking/images
+![alt text](https://github.com/emmanuelaboah/Computer_Architecture/tree/master/LED%20Blinking/images/hardware_design.png)
+
+
 
