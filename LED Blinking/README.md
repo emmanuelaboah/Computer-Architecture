@@ -1,6 +1,7 @@
 ## Project Overview
 This is a project report on the implementation of the blinking of two LEDs with a switch and connected to a PIC24 microcontroller. 
 A scenario for the description of the project was such that, the two LEDs namely; LED1 and LED2 were designed to be initially blinking, and whenever the switch (SW1) is pressed and released, the two LEDS are supposed to alternate between terminating the blinking and resuming the blinking [1]. 
+The C program for the execution of the project is contained in <i class="icon-cog"></i> **[led_blinking.c](https://github.com/aboahemmanuel01/Show_Me_The_Data_Structures_Project)**
 
 There are two major approaches to the solution of the problem elaborated above, which are as follows;
 ```
