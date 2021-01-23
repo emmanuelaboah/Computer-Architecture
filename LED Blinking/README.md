@@ -18,6 +18,8 @@ The hardware components connection to the PIC24 uC is depicted in the figure bel
 ![alt text](https://github.com/emmanuelaboah/Computer_Architecture/blob/master/LED%20Blinking/images/hardware_design.png)
 
 
+The software implementation of the project is summarized in the flowchart below:
 
+![alt text](https://github.com/emmanuelaboah/Computer_Architecture/blob/master/LED%20Blinking/images/hardware_design.png)
 
 
