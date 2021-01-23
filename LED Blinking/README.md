@@ -9,4 +9,8 @@ There are two major approaches to the solution of the problem elaborated above, 
 
 ```
 
+The periodic interrupt approach was adopted in this project because 
+it provides a more efficient way for solving the problem by making use of interrupts to reduce the CPU cycles and also 
+conserve power by avoiding the polling of I/Os.
+
 
