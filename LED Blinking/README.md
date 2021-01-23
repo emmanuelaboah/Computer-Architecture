@@ -13,4 +13,7 @@ The periodic interrupt approach was adopted in this project because
 it provides a more efficient way for solving the problem by making use of interrupts to reduce the CPU cycles and also 
 conserve power by avoiding the polling of I/Os.
 
+The hardware components connection to the PIC24 uC is depicted in the figure below:
+
+https://github.com/emmanuelaboah/Computer_Architecture/tree/master/LED%20Blinking/images
 
