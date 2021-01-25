@@ -30,6 +30,6 @@ This project runs on the PIC24 microcontroller and the <i class="icon-cog"></i> 
 After successfully compilling the code, it must be uploaded onto PIC24 uC board.
 
 The connection of the various I/Os to the uC is shown in figure 1 above. 
-A detailed report on the logic and implentation can also be found in 
+A detailed report on the logic and implentation can also be found in <i class="icon-cog"></i> **[LED_Blinking](https://github.com/emmanuelaboah/Computer_Architecture/blob/master/LED%20Blinking/LED_Blinking_PIC24.pdf)**
 
 
