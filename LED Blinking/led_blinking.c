@@ -22,7 +22,7 @@ void config_LEDsoutput(){
 
 // Configure the Pushbutton Switch
 void config_SW1() {
-    CONFIG_RB13_AS_DIG_INPUT();
+  CONFIG_RB13_AS_DIG_INPUT();
   ENABLE_RB13_PULLUP();
   DELAY_US(1); // Give the pullup some time to take effect.
   
