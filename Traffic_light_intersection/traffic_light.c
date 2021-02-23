@@ -5,28 +5,23 @@
 * File:   traffic_light.c
 
 * Author: Emmanuel Aboah Boateng
-
 *
-
 * Created on October 12, 2018, 9:59 PM
 
 */
 
-
+// Include header files of the specific PIC microcontroller (p24FJ64GB002)
 #include<p24FJ64GB002.h>
 
 /* The following code is used to initialize the pins */
 
 _CONFIG1(JTAGEN_OFF & GCP_OFF & GWRP_OFF & ICS_PGx1 & FWDTEN_OFF & WINDIS_OFF & FWPSA_PR32 & WDTPS_PS8192)
-
 _CONFIG3(WPFP_WPFP0 & SOSCSEL_IO & WUTSEL_FST & WPDIS_WPDIS & WPCFG_WPCFGDIS & WPEND_WPENDMEM)
-
 _CONFIG2(IESO_OFF & FNOSC_FRCPLL & OSCIOFNC_OFF & POSCMOD_NONE & PLL96MHZ_ON & PLLDIV_DIV2 & FCKSM_CSECME & IOL1WAY_OFF)
-
 _CONFIG4(DSWDTPS_DSWDTPS3 & DSWDTOSC_LPRC & RTCOSC_LPRC & DSBOREN_OFF & DSWDTEN_OFF)
 
 
-
+// Define delays of the various intersections
 #define M_Delay 65000                        /* Main road delay on green for normal hours */
 
 #define S_Delay 55000                          /* Small road delay on green for normal hours */
